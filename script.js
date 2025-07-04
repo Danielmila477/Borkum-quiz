@@ -14,6 +14,9 @@ const questions = [
   { question: "Was schützt die Insel Borkum vor Sturmfluten?", answers: ["Wälde", "Dünen", "Mauern", "Berge"], correct: 3 },
   { question: "Wie groß ist Borkum ungefähr?", answers: ["5km²", "100 km²", "26 km²", "50 km²"], correct: 2 },
   { question: "Welche Aktivität ist auf Borkum beliebt?", answers: ["Radfahren", "Skifahren", "Surfen im Mittelmeer", "Wandern im Gebirge"], correct: 0 },
+  { question: "Welches Meer/Ozean ist auf Borkum", answers: ["Mittelmeer", "Atlantik", "Indischer ozean", "Wattmeer"], correct: 3 },
+  { question: "Wer ist der schlauste in der Klasse?", answers: ["Daniel", "Michael.P", "Amir", "keiner von denen"], correct: 3 },
+  { question: "Wer wird eher eine 6 im Zeugniss haben?", answers: ["Michael.P", "Diana", "Turpal", "Amir"], correct: 2 },
 ];
 
 let currentQuestion = 0;
